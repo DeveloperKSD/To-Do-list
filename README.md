@@ -32,7 +32,7 @@ A simple **command-line To-Do List** built with **C++ and file handling**. This 
 
 ---
 
-##🔗 Future Enhancements
+## 🔗 Future Enhancements
 
 🚀 **Edit Tasks** – Modify an existing task instead of deleting
 🚀 **Task Categories** – Add labels like "Work" or "Personal"
