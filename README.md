@@ -39,3 +39,7 @@ A simple **command-line To-Do List** built with **C++ and file handling**. This 
 🚀 **Deadline Feature** – Set due dates for tasks
 🚀 **GUI Version** – Convert to a desktop app using Qt or Tkinter
 
+
+SCREENSHOT:
+![image](https://github.com/user-attachments/assets/0d61067b-2ec5-4fc4-a0c9-44071cc5cebe)
+
