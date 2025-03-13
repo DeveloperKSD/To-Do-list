@@ -43,3 +43,12 @@ A simple **command-line To-Do List** built with **C++ and file handling**. This 
 SCREENSHOT:
 ![image](https://github.com/user-attachments/assets/0d61067b-2ec5-4fc4-a0c9-44071cc5cebe)
 
+
+
+
+
+
+
+
+𝔗𝖍𝔦𝖘 𝕽𝔈𝕬𝔇𝕸𝔈 𝔲𝖘𝔢𝖉 𝖙𝔬 𝔟𝖊 𝖆 𝖓𝔬𝖗𝔪𝖆𝔩 𝔣𝖎𝔩𝖊, 𝔱𝖍𝔢𝖓 𝖎𝔱 𝔱𝖔𝔬𝖐 𝖆𝔫 𝔞𝖗𝔯𝖔𝔴 𝔱𝖔 𝖙𝔥𝖊 𝖐𝔫𝖊𝔢. ⚔️
+
