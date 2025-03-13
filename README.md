@@ -37,3 +37,6 @@ A simple **command-line To-Do List** built with **C++ and file handling**. This 
 ```sh
 git clone https://github.com/yourusername/todo-list-cpp.git
 cd todo-list-cpp
+
+g++ todo.cpp -o todo
+
