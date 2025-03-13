@@ -32,11 +32,10 @@ A simple **command-line To-Do List** built with **C++ and file handling**. This 
 
 ---
 
-## 🛠 Setup & Compilation
-### **🔹 Clone the Repository**
-```sh
-git clone https://github.com/yourusername/todo-list-cpp.git
-cd todo-list-cpp
+🔗 Future Enhancements
 
-g++ todo.cpp -o todo
+🚀 Edit Tasks – Modify an existing task instead of deleting
+🚀 Task Categories – Add labels like "Work" or "Personal"
+🚀 Deadline Feature – Set due dates for tasks
+🚀 GUI Version – Convert to a desktop app using Qt or Tkinter
 
