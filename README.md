@@ -25,3 +25,19 @@ A simple command-line To-Do List built with C++ and file handling. This app lets
     4 ➝ Exit the program
     3️⃣ Tasks are saved in tasks.txt and can be viewed anytime
     4️⃣ Deleting a task rewrites the file without the deleted task
+
+    🛠 Setup & Compilation
+
+    Clone the Repository
+
+git clone https://github.com/yourusername/todo-list-cpp.git
+cd todo-list-cpp
+
+Compile the program
+
+g++ todo.cpp -o todo
+
+Run the program
+
+./todo  # (Linux/macOS)
+todo.exe # (Windows)
